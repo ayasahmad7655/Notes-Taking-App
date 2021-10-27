@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.html{
+    /* background-color: rgb(139, 141, 145); */
+    background-color: #4582d1;
+}
+
+

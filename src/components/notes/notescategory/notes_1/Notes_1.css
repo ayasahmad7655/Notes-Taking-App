@@ -1,0 +1,20 @@
+.note_box{
+    /* width: 30vw; */
+    word-wrap: break-word;
+}
+
+
+.divheight{
+  min-height: 150vh;
+  
+}
+
+
+
+  @media only screen and (min-width:480px) {
+    .note_box{
+        width: 35vw;
+      
+    }
+      
+  }
