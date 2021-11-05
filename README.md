@@ -26,5 +26,4 @@ Project goals included using technologies learned up until this point and famili
 
 Originally I wanted to build an application that allowed users to create notes so that they don't forget their daily chores.
 
-## Demo
-### Todos
+
